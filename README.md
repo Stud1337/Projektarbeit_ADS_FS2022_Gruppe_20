@@ -7,7 +7,7 @@ Das Projekt muss mehrere im Modul vorgestellte Themen integrieren, im Minimum si
 (1) Datenerhebung mittels Web Scraping oder API
 (2) Datenaufbereitung (dazu können Methoden aus Data Science Fundamantals verwendet werden)
 (3) Verwendung eines ML Frameworks/Library (tensorflow/keras, sklearn oder im Kurs nicht betrachtete wie pytorch) 
-(4) Versionierung und Verfügbarmachen der Daten und des Modells über GitHub
+(4) Versionierung und Verfügbarmachen der Daten und des Modells über GitHub 
 Zusatzpunkte für Projektarbeit, falls folgendes erfüllt (max. 5 Punkte):
 Kreativität der Umsetzung (kreativ ist alles, was in den Lektionen und Übungen nicht vorgegeben wurde)
 Verwendung von sowohl Web Scraping als auch API's für den Datenbezug
