@@ -28,3 +28,4 @@ Abzugeben sind als .zip-Datei mit der Gruppennummer, z.B. Projektarbeit_ADS_FS20
      - Diskussion & Ergebnisse
      - Schlussfolgerungen
      - Link zu Github repository mit allen Materialien (Daten, Jupyter Notebooks, etc.)
+
